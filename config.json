@@ -3,15 +3,17 @@
   "TargetRepo": "",
   "TargetGH": false,
   "TargetAPI": "https://evermeet.cx/ffmpeg/info/ffmpeg/snapshot",
-  "TargetDLink": "https://evermeet.cx/ffmpeg/get",
+  "TargetDLink": "https://evermeet.cx/ffmpeg/ffmpeg-99930-g284560baa7.7z",
   "ArchiverOwner": "One-Studio",
   "ArchiverRepo": "FFmpeg-Mac-master",
   "ArchiverGH": true,
   "ArchiverAPI": "",
   "ArchiverVersion": "v1.2.1",
-  "Version": "",
-  "VersionList": [],
-  "CheckTime": "",
+  "Version": "99930-g284560baa7",
+  "VersionList": [
+    "99930-g284560baa7"
+  ],
+  "CheckTime": "2020-11-19T01:28Z",
   "Format": 1,
   "CompRatio": 3,
   "DistPath": "dist",
@@ -21,9 +23,9 @@
   ],
   "DeleteFilter": [],
   "RenameFilter": [
-	  {
-		  "Index": "ffmpeg",
-		  "Name": "ffmpeg-mac-master.7z"
-	  }
+    {
+      "Index": "ffmpeg",
+      "Name": "ffmpeg-mac-master.7z"
+    }
   ]
 }

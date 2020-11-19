@@ -1,9 +1,13 @@
 {
-  "Version": "",
-  "VersionList": [],
+  "Version": "99930-g284560baa7",
+  "VersionList": [
+    "99930-g284560baa7"
+  ],
   "ReleaseTime": "",
-  "CheckTime": "",
-  "DownloadLink": [],
+  "CheckTime": "2020-11-19T01:28Z",
+  "DownloadLink": [
+    "https://cdn.jsdelivr.net/gh/One-Studio/FFmpeg-Mac-master@master/dist/ffmpeg-mac-master.7z"
+  ],
   "Format": 1,
   "ReleaseNote": ""
 }
