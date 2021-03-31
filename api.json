@@ -1,6 +1,7 @@
 {
-  "Version": "101748-g797c2ecc8f",
+  "Version": "101778-g84ac35ecb8",
   "VersionList": [
+    "101778-g84ac35ecb8",
     "101748-g797c2ecc8f",
     "101711-ga4e518c321",
     "101660-ge668c55649",
@@ -50,7 +51,7 @@
     "99930-g284560baa7"
   ],
   "ReleaseTime": "",
-  "CheckTime": "2021-03-28T21:41Z",
+  "CheckTime": "2021-03-31T20:41Z",
   "DownloadLink": [
     "https://cdn.jsdelivr.net/gh/One-Studio/FFmpeg-Mac-master@master/dist/ffmpeg-mac-master.7z"
   ],
